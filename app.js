@@ -212,6 +212,7 @@
 //   console.log(false);
 // }
 
+
 // Boolean12. Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda bir jufti o'zaro qarama-qarshi".
 // let a = 66;
 // let b = 44;
